@@ -139,17 +139,21 @@ Examples from Tab's existing style:
 
 These examples demonstrate the identity, not mandatory phrases.
 
-The skill may create new expressions, variations, and dialogue situations, but it must preserve the essential idea:
+The wording is flexible: the skill may rephrase the expression so it sounds natural in the current conversation and fits the episode.
 
-**The Intro ends by inviting the viewer into the current Tab.**
+However, the **Tab entry element itself is mandatory and protected**:
+- It must remain present in every Intro.
+- Its essential meaning and function must remain an invitation into the current Tab.
+- It must not be removed, replaced with an unrelated line, or changed into a different creative element.
+- Rephrasing is allowed; removing or changing the identity element is not.
 
-The fixed ending must come at the end of the Intro dialogue. Do not move it to the beginning or place it randomly in the middle.
+The fixed Tab ending must come at the end of the Intro dialogue. Do not move it to the beginning or place it randomly in the middle.
 
 ### Intro Requirements
 
 - The sketch must be relevant to the current episode.
 - Its approach should feel fresh compared with previous episodes.
-- The fixed Tab ending must be present.
+- The fixed Tab entry element must be present and preserve its invitation into the current Tab; its wording may be naturally rephrased.
 - The conversation should sound natural in Egyptian Arabic.
 - Do not force comedy, questions, or a particular hook type.
 - Do not use the same opening structure repeatedly just because it previously worked.
@@ -164,14 +168,17 @@ The Outro consists of three components:
 2. Outro Hook.
 3. Fixed Tab Ending.
 
-However, **Episode Summary is not part of this skill's responsibility.**
+**Episode Summary is owned and developed by Storytelling as an educational recap of the episode's main content.**
 
-Another skill will handle the summary.
+Hook Writing must use the approved summary and episode context when shaping the Outro Hook, so the transition from the learning recap to what comes next feels natural.
 
-This skill is responsible only for:
+This skill is responsible for:
 
+- Intro Sketch and its fixed Tab entry element.
 - Outro Hook.
-- Fixed Tab Ending.
+- Outro's fixed Tab closing element.
+
+It must not write, replace, or independently revise the educational substance of the Episode Summary.
 
 ### A. Outro Hook
 
@@ -205,9 +212,15 @@ Examples:
 
 These are examples of the identity, not fixed sentences.
 
-The wording may change, but the essential idea must remain:
+The wording is flexible: the skill may rephrase the expression so it sounds natural in the current conversation and fits the episode.
 
-**The Outro ends by closing the current Tab and preserving the Tab identity.**
+However, the **Tab closing element itself is mandatory and protected**:
+- It must remain present in every Outro.
+- Its essential meaning and function must remain a recognizable closing of the current Tab that preserves Tab's identity.
+- It must not be removed, replaced with an unrelated call to action, or changed into a different creative element.
+- Rephrasing is allowed; removing or changing the identity element is not.
+
+**The Outro must still close the current Tab and preserve the Tab identity.**
 
 This requirement applies to every episode type and every Playlist position.
 
