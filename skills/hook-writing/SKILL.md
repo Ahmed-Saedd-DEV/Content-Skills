@@ -703,31 +703,30 @@ Approval at this stage does not mean that future revisions are forbidden.
 
 ## 12. Output & Handoff
 
-The skill should deliver only the Hook components it owns.
+The skill should deliver only the Hook components it owns. It must coordinate with Storytelling's approved Episode Summary, but must not write or revise the summary's educational substance.
 
 ### Intro Output
 
 - Variable Intro Sketch.
-- Fixed Tab Ending.
+- Fixed Tab entry element, with wording adapted naturally when appropriate.
 
 ### Outro Output
 
 - Outro Hook.
-- Fixed Tab Ending.
+- Fixed Tab closing element, with wording adapted naturally when appropriate.
 
-The Episode Summary must be handled separately by the appropriate skill.
+The educational Episode Summary is developed by Storytelling and is assembled with these Outro components by Episode Development.
 
 ### Suggested Handoff Information
 
 When the Hooks are approved, provide:
 
 - Episode identification.
-- Intro Sketch.
-- Intro Fixed Tab Ending.
-- Outro Hook.
-- Outro Fixed Tab Ending.
+- Intro Sketch and its Tab entry element.
+- Outro Hook and its Tab closing element.
 - Relevant connection to the previous or next episode, if applicable.
 - Any creative direction or style decision that should be preserved.
+- Any relevant context from Storytelling's approved Episode Summary that informed the Outro Hook.
 
 Keep the output easy to transfer into the episode's main script.
 
@@ -758,6 +757,6 @@ The following principles must guide every Hook Writing task:
 17. Avoid forced comedy, excessive exaggeration, vulgarity, and misleading clickbait.
 18. Interpret the creator's feedback according to whether they are rejecting a direction or improving it.
 19. Never treat a suggestion as approved before the creator approves it.
-20. Keep this skill isolated from Storytelling, Internal Hooks, Episode Summary, Content Structure, and Script Writing.
+20. Respect the boundaries with Storytelling, Internal Hooks, Episode Summary, Episode Blueprint, and Episode Development: coordinate where needed, but do not take over their responsibilities.
 
 **The ultimate goal is not simply to write an attention-grabbing sentence. It is to create a distinctive Tab opening and ending that feel natural, memorable, creatively varied, and connected to the viewer's journey through Tab's content.**
