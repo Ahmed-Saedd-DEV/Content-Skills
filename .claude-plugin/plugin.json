@@ -1,5 +1,14 @@
 {
   "name": "tab-content-studio",
   "version": "1.0.0",
-  "description": "Three workflow skills for developing content ideas, writing intro and outro hooks, and designing episode storytelling for Tab Content Studio."
+  "description": "Seven coordinated skills for developing Tab content ideas, playlist continuity, episode blueprints, technical research, storytelling, hooks, and complete episode scripts.",
+  "repository": "https://github.com/Ahmed-Saedd-DEV/Content-Skills",
+  "keywords": [
+    "content-creation",
+    "educational-content",
+    "storytelling",
+    "technical-education",
+    "video-scripts",
+    "programming"
+  ]
 }
