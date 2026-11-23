@@ -254,9 +254,9 @@ Monitor whether the proposed storytelling direction:
 
 Storytelling remains responsible for narrative techniques, character development, and storytelling decisions.
 
-### C. Episode Structure
+### C. Episode Blueprint
 
-Monitor whether the proposed structure:
+Monitor whether the proposed high-level structure:
 
 - Follows a logical educational sequence.
 - Introduces concepts before relying on them.
@@ -264,19 +264,19 @@ Monitor whether the proposed structure:
 - Avoids skipping important steps in the learning journey.
 - Maintains the intended relationship with previous and upcoming episodes.
 
-Episode Structure remains responsible for designing the episode's internal organization.
+Episode Blueprint remains responsible for designing the episode's high-level internal organization. Content Connection monitors its fit with the playlist's learning progression but does not design or rewrite the Blueprint.
 
-### D. Dialogue
+### D. Storytelling and Dialogue
 
-Monitor whether the dialogue:
+Monitor whether the storytelling and dialogue:
 
-- Assumes the audience understands something that has not been explained.
-- Introduces technical terms without the necessary context.
-- Repeats information unnecessarily.
-- Creates confusion about concepts established in previous episodes.
-- Contradicts the approved educational progression.
+- Assume the audience understands something that has not been explained.
+- Introduce technical terms without the necessary context.
+- Repeat information unnecessarily.
+- Create confusion about concepts established in previous episodes.
+- Contradict the approved educational progression.
 
-Dialogue remains responsible for writing natural conversations and character interactions.
+Storytelling remains responsible for narrative decisions, character interaction, and dialogue. Content Connection monitors continuity without taking over those responsibilities.
 
 ### E. Other Skills
 
@@ -316,8 +316,8 @@ This applies to the entire episode development process, including:
 - Hook development.
 - Storytelling.
 - Content development.
-- Episode structure.
-- Dialogue.
+- Episode Blueprint and its high-level section order.
+- Storytelling, including dialogue and character interaction.
 - Script modifications.
 
 ### Early Detection
