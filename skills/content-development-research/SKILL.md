@@ -74,11 +74,10 @@ The owning Skill remains responsible for its own work:
 | Episode idea, objectives, and overall scope | Idea Development |
 | Intro and Outro Hooks | Hook Writing |
 | Playlist knowledge progression and continuity | Content Connection |
-| Narrative approach, examples, analogies, and explanation flow | Storytelling |
-| Episode structure | Episode Structure |
-| Character interaction and dialogue | Dialogue & Characters |
-| Building the episode from the approved components | Episode Development |
-| Final cross-component review | Final Review |
+| Narrative approach, explanation flow, examples, analogies, character interaction, dialogue, and educational Episode Summary | Storytelling |
+| Intro and Outro Hooks, including the fixed Tab entry and closing elements | Hook Writing |
+| High-level internal episode structure and section order | Episode Blueprint |
+| Building the episode from approved components and holistic final review | Episode Development |
 
 Research may provide facts and options to these Skills, but it must not take over their decisions.
 
