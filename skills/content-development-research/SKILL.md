@@ -3,6 +3,25 @@ name: content-development-research
 description: Research, discover, verify, and maintain reliable technical knowledge for Tab educational content without taking ownership of episode scope or creative decisions.
 ---
 
+## Shared Project Context & Input Validation
+
+All information the creator provides anywhere within the Tab project is shared project context. An input does not belong exclusively to the Skill or stage in which it was first provided.
+
+Before asking the creator for information or beginning work, review the available project conversation, previous Skill outputs, approved decisions, and relevant project files.
+
+Apply these rules:
+
+1. **Reuse shared inputs:** Treat any relevant information the creator has already provided in any Skill or project stage as available to every Skill. Use it directly; do not ask the creator to repeat it or ask which Skill originally collected it.
+2. **Check completeness:** Identify only the inputs that are genuinely necessary for this Skill's current task. If a required input is not available anywhere in the shared project context, ask the creator for that missing information before proceeding with work that depends on it.
+3. **Validate consistency:** Check that the available inputs agree with one another and with the current project context. If a meaningful contradiction, ambiguity, or gap affects the work, pause the affected decision and bring the issue to the creator instead of guessing.
+4. **Respect responsibilities:** Check that the requested work and any proposed action fit the responsibilities of the relevant Skills. Coordinate internally with the appropriate Skill when needed; do not make the creator manage routine Skill-to-Skill routing or explain the internal ownership map.
+5. **Keep the creator informed about real issues:** The creator needs to know when an issue affects their input, a decision, or the result—not which Skill detected it or how internal coordination is arranged. Ask the creator only for information, clarification, or approval that cannot be obtained from the shared project context.
+
+Do not treat a missing handoff document as proof that information is unavailable if the creator has already supplied it elsewhere in the project conversation or files. Likewise, do not assume an input exists merely because another Skill would normally provide it; verify that it is actually present in the shared context.
+
+This is a project-wide operating rule and applies to every existing and future Skill.
+
+
 # Content Development & Research
 
 ## 1. Purpose & Core Responsibility
