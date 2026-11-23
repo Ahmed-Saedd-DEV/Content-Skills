@@ -91,8 +91,8 @@ These may include:
 
 - The approved episode idea and objective.
 - The approved Episode Blueprint.
-- Storytelling's developed main-content material and relevant decisions.
-- Hook Writing's approved Intro and Outro.
+- Storytelling's developed main-content material, educational Episode Summary, and relevant decisions.
+- Hook Writing's approved Intro Sketch, fixed Tab entry element, Outro Hook, and fixed Tab closing element.
 - Content Connection's continuity findings and requirements, when applicable.
 - Research findings and verified information that the episode relies on.
 - The creator's constraints, preferences, corrections, and previous approvals.
@@ -124,14 +124,21 @@ The assembled script will normally include:
 - Intro.
 - Main content.
 - Any transitions or internal hooks that Storytelling has chosen to include.
-- Outro.
+- Outro, normally in this order:
+  1. Educational Episode Summary developed by Storytelling.
+  2. Outro Hook developed by Hook Writing.
+  3. Fixed Tab closing element developed by Hook Writing.
 - Any other component explicitly approved for this episode.
+
+The Intro must also retain its fixed Tab entry element at the end of the Intro Sketch.
 
 Use the actual approved components. Do not create missing sections merely to make the script look complete.
 
 ### Assembly Principles
 
 - Preserve the meaning and decisions of each approved component.
+- Preserve the educational substance of Storytelling's Episode Summary; do not independently rewrite it as an editorial choice.
+- Preserve the fixed Tab entry and closing elements in the Intro and Outro. Their wording may be refined for natural flow, but their presence, essential meaning, and function must not be removed or changed.
 - Preserve the creator's selected character-role distribution.
 - Keep the Egyptian Arabic conversational voice used by Tab.
 - Make section boundaries and transitions feel natural.
