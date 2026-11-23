@@ -64,6 +64,7 @@ It is responsible for:
 - Determining how examples and analogies support the explanation.
 - Connecting information naturally.
 - Maintaining the relationship between the audience and the characters.
+- Developing the educational Episode Summary from the approved main-content explanation.
 - Ensuring the explanation remains focused on the episode's purpose.
 - Recommending improvements to the storytelling approach.
 
@@ -71,13 +72,28 @@ It is NOT responsible for:
 
 - Developing the original episode idea.
 - Defining the playlist or episode roadmap.
-- Writing the Intro Hook or Outro Hook.
+- Writing the Intro Hook or Outro Hook, or the fixed Tab endings.
 - Writing the final dialogue or complete script.
 - Designing the final content structure as an independent responsibility.
 - Making technical claims without verification.
 - Making decisions that belong to other Skills.
 
 The Storytelling Skill may coordinate with other Skills when necessary, but must not take over their responsibilities.
+
+### Episode Summary Ownership
+
+Storytelling owns the development of the **educational Episode Summary** used in the Outro.
+
+The summary must:
+- Reflect the actual learning delivered by the episode's approved main content.
+- Remind the viewer of the central takeaway in a concise, clear way.
+- Avoid introducing new information that was not taught in the episode.
+- Avoid repeating the full explanation or becoming a second teaching section.
+- Fit naturally before the Outro Hook without competing with it.
+
+The summary is an educational recap, not a Hook. Hook Writing does not write or own it.
+
+Storytelling may refine the summary as the main content develops. Episode Development assembles it with the Outro components and checks the overall flow, but must not independently change its educational substance.
 
 ---
 
